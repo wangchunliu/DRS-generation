@@ -1,5 +1,5 @@
 # DRS-generation
-The datasets and codes for my ACL-IJCNLP 2021 GEM workshop paper.
+The datasets and codes for my ACL-IJCNLP 2021 GEM workshop paper --- " Evaluating Text Generation from Discourse Representation Structures ".
 The codes were based on [the work of Rik van Noord](https://github.com/RikVN/Neural_DRS).
 The English data used in paper come from [DRS_parsing respository](https://github.com/RikVN/DRS_parsing).
  
